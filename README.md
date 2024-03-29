@@ -63,8 +63,8 @@
  
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishuvishu&show_icons=true&locale=en&layout=compact" alt="vishuvishu" /></p>
- <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vishuvishu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishuvishu&show_icons=true&locale=en" alt="vishuvishu" /></p>
+ <img width=390 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vishuvishu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishuvishu&show_icons=true&locale=en" alt="vishuvishu" /></p>
 </div>
 
 <br/><br/>
