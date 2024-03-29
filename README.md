@@ -60,25 +60,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- 
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishuvishu&show_icons=true&locale=en&layout=compact" alt="vishuvishu" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vishuvishu&show_icons=true&locale=en" alt="vishuvishu" /></p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=vishuvishu&show_icons=true&locale=en" alt="vishuvishu" />
+
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishuvishu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishuvishu&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishuvishu&theme=2077" height="180em" />
 </div>
 
 <br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
-<div align="center">
-<a href="https://github.com/vishuvishu">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishuvishu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishuvishu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishuvishu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishuvishu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishuvishu&theme=2077" height="180em" />
-</div>
 
