@@ -61,10 +61,10 @@
 <br>
 <div align=center>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishuvishu&show_icons=true&locale=en" alt="vishuvishu" />
-        <br/>
+        <br/><br/><br/>
  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishuvishu&theme=2077" height="180em" />
              
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishuvishu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishuvishu&theme=2077" height="180em" /><br/><br/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishuvishu&theme=2077" height="180em" />
 </div>
 
