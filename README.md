@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently practicing to shine my **Flutter and Designing Skills**
 
-- 🧑‍🎨 My Figma Profile [Check My Figma](https://figma.com/@vishukishorbhai)
+- 🧑‍🎨 My Figma Profile [Check My Public Figma Profile](https://figma.com/@vishukishorbhai)
 
-- 👨‍💻 All of my projects are available at [github.com/vishuvishu](github.com/vishuvishu)
+- 👨‍💻 All of my projects are available at [My Github](github.com/vishuvishu)
 
-- 📝 I regularly write articles on [https://medium.com/@vishukishorbhai](https://medium.com/@vishukishorbhai)
+- 📝 I regularly write articles on [my medium blogs](https://medium.com/@vishukishorbhai)
 
 - 💬 Ask me about **Flutter, Figma, MERN**
 
 - 📫 How to reach me **vishukishorbhai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1stx8aoMcfC4x3I-V6Z02CdFNDQXQVhX2/view?usp=sharing](https://drive.google.com/file/d/1stx8aoMcfC4x3I-V6Z02CdFNDQXQVhX2/view?usp=sharing)
+- 📄 Know about my experiences [than check my resume](https://drive.google.com/file/d/1stx8aoMcfC4x3I-V6Z02CdFNDQXQVhX2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
