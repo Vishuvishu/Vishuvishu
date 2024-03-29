@@ -1,10 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vishuvishu.vishuvishu" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishu+K.+Bhingradiya;" />
 </h1>
 
-<h3 align="center">A passionate Flutter , MERN developer and UI/UX designer</h3>
+<h3 align="center">A Engineer Student and Flutter , MERN developer and UI/UX designer. I am passionate to try and learn new technologies.</h3>
 
 <br/>
 
@@ -22,7 +21,7 @@
 
 - 💬 Ask me about **Flutter, Figma, MERN**
 
-- 📫 How to reach me **vishukishorbhai@gmail.com**
+- 📫 How to reach me **vishukishorbhai@gmail.com** or [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/)
 
 - 📄 Know about my experiences [than check my resume](https://drive.google.com/file/d/1stx8aoMcfC4x3I-V6Z02CdFNDQXQVhX2/view?usp=sharing)
 
