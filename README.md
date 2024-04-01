@@ -17,6 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [My Github](github.com/vishuvishu)
 
+- 🔭 Check Deployed flutter app on [vercel](https://todoapp-flutter.vercel.app/)
+
 - 📝 I regularly write articles on [my medium blogs](https://medium.com/@vishukishorbhai)
 
 - 💬 Ask me about **Flutter, Figma, MERN**
