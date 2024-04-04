@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">A Engineer Student and Flutter , MERN developer and UI/UX designer. I am passionate to try and learn new technologies.</h3>
-<img align="right" alt="Gif for developer by" width="400" src="https://github.com/Vishuvishu/Storage_repo/blob/main/lottieGif/gif1.gif?raw=true" style="border-radius:50%">
+<!-- <img align="right" alt="Gif for developer by" width="400" src="https://github.com/Vishuvishu/Storage_repo/blob/main/lottieGif/gif1.gif?raw=true" style="border-radius:50%"> -->
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishuvishu&label=Profile%20views&color=0e75b6&style=flat alt="vishuvishu" /> </p>
