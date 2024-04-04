@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently working on **Multiple UI design for internship and working Flutter Projects**
 
-- 🔭 I’m also working on **Flutter Projects**
+- 🔭 I’m also working on **Flutter Projects and MERN Stack**
 
 - 🏆 Check hackathon MERN stack project that made us in Top 10 teams at DAIICT, Gandhinagar [Check Devfolio](https://devfolio.co/projects/freshstart-guide-1e4d)
 
 - 🌱 I’m currently practicing to shine my **Flutter and Designing Skills**
 
-- 🧑‍🎨 My Figma Profile [Check My Public Figma Profile](https://figma.com/@vishukishorbhai)
+- 🧑‍🎨 My Figma Community Profile [Check My Public Figma Profile](https://figma.com/@vishukishorbhai)
 
-- 👨‍💻 All of my projects are available at [My Github](github.com/vishuvishu)
+- 👨‍💻 All of my projects repositories are available at [My Github](github.com/vishuvishu)
 
-- 🔭 Check Deployed flutter app on [vercel](https://todoapp-flutter.vercel.app/)
+- 🔭 Check my deployed basic flutter app on [vercel](https://todoapp-flutter.vercel.app/)
 
 - 📝 I regularly write articles on [my medium blogs](https://medium.com/@vishukishorbhai)
 
