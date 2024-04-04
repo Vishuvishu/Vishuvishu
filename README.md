@@ -13,6 +13,8 @@
 
 - 🔭 I’m also working on **Flutter Projects and MERN Stack**
 
+- 👊 Github Contributions to [FreshStartGuide_UtsavKathrotiya](https://github.com/Utsav-7/FreshStart-Guide)
+
 - 🏆 Check hackathon MERN stack project that made us in Top 10 teams at DAIICT, Gandhinagar [Check Devfolio](https://devfolio.co/projects/freshstart-guide-1e4d)
 
 - 🌱 I’m currently practicing to shine my **Flutter and Designing Skills**
