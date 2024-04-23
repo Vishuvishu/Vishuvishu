@@ -21,7 +21,7 @@
 
 - 🧑‍🎨 My Figma Community Profile [Check My Public Figma Profile](https://figma.com/@vishukishorbhai)
 
-- 👨‍💻 All of my projects repositories are available at [My Github](github.com/vishuvishu)
+- 👨‍💻 All of my projects repositories are available at [My Github](https://github.com/vishuvishu)
 
 - 🔭 Check my deployed basic flutter app on [vercel](https://todoapp-flutter.vercel.app/)
 
