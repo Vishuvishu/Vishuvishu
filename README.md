@@ -33,9 +33,9 @@
 
 - 📄 Know about my experiences [than check my resume](https://drive.google.com/file/d/1stx8aoMcfC4x3I-V6Z02CdFNDQXQVhX2/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">See my Profiles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" height="30" width="40" /></a> -->
 <a href="https://instagram.com/vishu_bhingradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishu_bhingradiya" height="30" width="40" /></a>
 <a href="https://medium.com/@vishukishorbhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishukishorbhai" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vishu_7911" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="vishu_7911" height="30" width="40" /></a>
