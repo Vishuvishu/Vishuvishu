@@ -25,7 +25,7 @@
 
 - 📫 To contact me **[mail](mailto:vishukishorbhai@gmail.com?)** or [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/)
 
-- 📄 Know about my experiences [than check my resume](https://drive.google.com/file/d/1stx8aoMcfC4x3I-V6Z02CdFNDQXQVhX2/view?usp=sharing)
+- 📄 Know about my experiences [Than check my resume](https://drive.google.com/file/d/1KIQvAQesDlVkJrYH7HNdk5bFVggrQvc5/view?usp=drive_link)
 
 <h3 align="left">See my Profiles:</h3>
 <p align="left">
