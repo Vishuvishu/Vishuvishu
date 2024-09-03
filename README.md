@@ -65,6 +65,7 @@
 <br/><br/>
 <hr/>
 
+<!--
 <div align="center">
   <h2>🐍 Let Snake Eat 🐍</h2>
   <br>
@@ -72,5 +73,5 @@
   
   <br/><br/><br/>
 </div>
-
+-->
 
