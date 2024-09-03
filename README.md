@@ -7,27 +7,21 @@
 <!-- <img align="right" alt="Gif for developer by" width="400" src="https://github.com/Vishuvishu/Storage_repo/blob/main/lottieGif/gif1.gif?raw=true" style="border-radius:50%"> -->
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishuvishu&label=Profile%20views&color=0e75b6&style=flat alt="vishuvishu" /> </p>
-
-- 🔭 I’m currently working on **Multiple UI design for internship and working Flutter Projects**
-
-- 🔭 I’m also working on **Flutter Projects and MERN Stack**
-
-- 👊 Github Contributions to [FreshStartGuide_UtsavKathrotiya](https://github.com/Utsav-7/FreshStart-Guide)
-
 - 🏆 Check hackathon MERN stack project that made us in Top 10 teams at DAIICT, Gandhinagar [Check Devfolio](https://devfolio.co/projects/freshstart-guide-1e4d)
 
-- 🌱 I’m currently practicing to shine my **Flutter and Designing Skills**
+- 🔭 I’m currently working in **IBM as Software Developer Engineer Intern**
+
+- 👊 Github Contributions to [FreshStartGuide_UtsavKathrotiya](https://github.com/Utsav-7/FreshStart-Guide)
 
 - 🧑‍🎨 My Figma Community Profile [Check My Public Figma Profile](https://figma.com/@vishukishorbhai)
 
 - 👨‍💻 All of my projects repositories are available at [My Github](https://github.com/vishuvishu)
 
-- 🔭 Check my deployed basic flutter app on [vercel](https://todoapp-flutter.vercel.app/)
+- 🔭 Check my deployed basic todo flutter app on [vercel](https://todoapp-flutter.vercel.app/)
 
 - 📝 I regularly write articles on [my medium blogs](https://medium.com/@vishukishorbhai)
 
-- 💬 Ask me about **Flutter, Figma, MERN**
+- 💬 Ask me about **JAVA, Flutter, Figma, MERN**
 
 - 📫 To contact me **[mail](mailto:vishukishorbhai@gmail.com?)** or [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/)
 
