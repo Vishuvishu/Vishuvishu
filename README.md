@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishu+K.+Bhingradiya;+Currently+SDE+intern+at+IBM;" />
 </h1>
 
-<h3 align="center">A Engineer Student and Flutter , MERN developer and UI/UX designer. I am passionate to try and learn new technologies.</h3>
+<h3 align="center">A Engineer Student and enthusiast for Software Development Process. I am passionate to try and learn new technologies.</h3>
 <!-- <img align="right" alt="Gif for developer by" width="400" src="https://github.com/Vishuvishu/Storage_repo/blob/main/lottieGif/gif1.gif?raw=true" style="border-radius:50%"> -->
 <br/>
 
