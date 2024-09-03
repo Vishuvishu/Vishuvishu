@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Vishuvishu/Storage_repo/blob/main/Images/Coverpage.png?raw=true)](https://github.com/vishuvishu)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishu+K.+Bhingradiya;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishu+K.+Bhingradiya;+currently SDE intern at IBM; " />
 </h1>
 
 <h3 align="center">A Engineer Student and Flutter , MERN developer and UI/UX designer. I am passionate to try and learn new technologies.</h3>
