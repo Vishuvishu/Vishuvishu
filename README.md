@@ -37,7 +37,7 @@
 - 📄 [Check my resume](https://drive.google.com/file/d/1KIQvAQesDlVkJrYH7HNdk5bFVggrQvc5/view?usp=drive_link)
 
 
- 
+<!--
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -49,6 +49,7 @@
 <br/>
 
 <hr/>
+-->
 <!-- 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
