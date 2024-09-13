@@ -6,6 +6,8 @@
 <h3 align="center">A Engineer Student and enthusiast for Software Development Process. I am passionate to try and learn new technologies.</h3>
 <!-- <img align="right" alt="Gif for developer by" width="400" src="https://github.com/Vishuvishu/Storage_repo/blob/main/lottieGif/gif1.gif?raw=true" style="border-radius:50%"> -->
 <br/>
+<h3 align="left">Check My Portfolio and Resume : <a href="https://portfolioreact-self.vercel.app/">Click Here</a> </h3>
+
 <h3 align="left">See my Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" height="30" width="40" /></a>
@@ -15,11 +17,10 @@
 <a href="https://www.hackerrank.com/21it013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21it013" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishu21it013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishu21it013" height="30" width="40" /></a>
 </p>
-<h3 align="left">Check My Portfolio and Resume</h3>
-<a href="https://portfolioreact-self.vercel.app/">here</a>
 
  <hr/>
-- 🏆 Hackathon project that made us in **Top 10 teams** at DAIICT, Gandhinagar [Check Devfolio](https://devfolio.co/projects/freshstart-guide-1e4d)
+
+-  🏆 Hackathon project that made us in Top 10 teams at DAIICT, Gandhinagar [CheckDevfolio](https://devfolio.co/projects/freshstart-guide-1e4d)
 
 - 🔭 I’m currently working in **IBM as Software Developer Engineer Intern**
 
@@ -40,7 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,figma,react,nodejs,express,firebase,mongodb,docker,mysql,vscode,vercel,github,git" />
+    <img src="https://skillicons.dev/icons?i=flutter,figma,react,nodejs,express,firebase,mongodb,docker,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,vercel,github,git" />
     <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,python,html,css,javascript,tailwind,bootstrap" /><br>
 </div>
 
