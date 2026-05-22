@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Vishuvishu/Storage_repo/blob/main/Images/Coverpage.png?raw=true)](https://github.com/vishuvishu)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishu+K.+Bhingradiya;+Currently+SDE+at+IBM;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=DEA424&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishu+K.+Bhingradiya;+Currently+SDE+at+IBM;" />
 </h1>
 
 <h3 align="center">An Engineering Student and enthusiast for Software Development and Designing. I am passionate to try and learn new technologies.</h3>
@@ -13,26 +13,21 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/vishu_bhingradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishu_bhingradiya" height="30" width="40" /></a> -->
 <a href="https://medium.com/@FingerPrintBlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishukishorbhai" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishu_7911" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="vishu_7911" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/21it013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21it013" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishu21it013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishu21it013" height="30" width="40" /></a>
 </p>
 
  <hr/>
 
 -  🏆 Hackathon project that made us in Top 10 teams at DAIICT, Gandhinagar [CheckDevfolio](https://devfolio.co/projects/freshstart-guide-1e4d)
 
-- 🔭 I’m currently working in **IBM as Software Developer Engineer Intern**
+- 🔭 I’m currently working in **IBM as Software Developer Engineer**
 
 - 👊 Github Contributions to [FreshStartGuide_UtsavKathrotiya](https://github.com/Utsav-7/FreshStart-Guide)
 
 - 🧑‍🎨 [My Figma Community Profile](https://figma.com/@vishukishorbhai)
 
-- 📝 [My medium blogs](https://medium.com/@vishukishorbhai)
+- 📝 [My medium blogs](https://medium.com/@FingerPrintblogs)
 
-- 💬 Ask me about **JAVA, Flutter, Figma, MERN**
-
-- 📫 To contact me **[mail](mailto:vishukishorbhai@gmail.com?)** or [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/)
+- 📫 To contact me **[mail](mailto:vishunkkb.dev@gmail.com?)** or [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/)
 
 - 📄 [Check my resume](https://drive.google.com/file/d/1KIQvAQesDlVkJrYH7HNdk5bFVggrQvc5/view?usp=drive_link)
 
